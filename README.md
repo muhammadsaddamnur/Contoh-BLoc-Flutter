@@ -1,6 +1,7 @@
 # contohblocpattern
 
-A new Flutter project.
+Struktur BLoC Pattern di Dart (Flutter)
+berdasarkan tutorial di https://www.youtube.com/watch?v=h3TEEGceYsU&t=8s
 
 ## Getting Started
 
